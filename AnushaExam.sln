@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anusha.BusinessLogicLayer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anusha.WindowsApplication", "Anusha.WindowsApplication\Anusha.WindowsApplication.csproj", "{181DC81D-DC5D-45D2-9FD2-657FE6C91AC1}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1A043458-CE06-48E7-B8B3-BE7428BA34A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,12 @@ Global
 		{181DC81D-DC5D-45D2-9FD2-657FE6C91AC1}.Release|Mixed Platforms.Build.0 = Release|x86
 		{181DC81D-DC5D-45D2-9FD2-657FE6C91AC1}.Release|x86.ActiveCfg = Release|x86
 		{181DC81D-DC5D-45D2-9FD2-657FE6C91AC1}.Release|x86.Build.0 = Release|x86
+		{1A043458-CE06-48E7-B8B3-BE7428BA34A1}.Debug|Any CPU.ActiveCfg = Debug
+		{1A043458-CE06-48E7-B8B3-BE7428BA34A1}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{1A043458-CE06-48E7-B8B3-BE7428BA34A1}.Debug|x86.ActiveCfg = Debug
+		{1A043458-CE06-48E7-B8B3-BE7428BA34A1}.Release|Any CPU.ActiveCfg = Release
+		{1A043458-CE06-48E7-B8B3-BE7428BA34A1}.Release|Mixed Platforms.ActiveCfg = Release
+		{1A043458-CE06-48E7-B8B3-BE7428BA34A1}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

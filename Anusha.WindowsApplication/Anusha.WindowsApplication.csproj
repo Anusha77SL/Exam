@@ -115,6 +115,8 @@
   <ItemGroup>
     <Content Include="Icons\new.gif" />
     <Content Include="Icons\save.gif" />
+    <Content Include="Icons\wi0063-48.ico" />
+    <Content Include="Icons\wi0064-48.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
